@@ -1,0 +1,43 @@
+TITLE 1L2Y_JASH_TRPCAGE_200106037_MODEL-13
+
+default helix
+
+res asn phi 0.0 psi -44.5 chi1 -78.4
+
+res leu phi 66.3 psi -33.7 chi1 -60.2
+
+res tyr phi -56.0 psi -33.5 chi1 -146.5
+
+res ile phi -63.6 psi -50.8 chi1 -52.1
+
+res gln phi -60.9 psi -42.1 chi1 -77.4
+
+res trp phi -62.0 psi -46.1 chi1 -177.5
+
+res leu phi -60.9 psi -37.8 chi1 -76.6
+
+res lys phi -56.7 psi -28.3 chi1 -165.8
+
+res asp phi -75.9 psi -11.0 chi1 -58.2
+
+res gly phi 106.7 psi 11.2
+
+res gly phi 59.9 psi -127.8 
+
+res pro phi -58.0 psi -20.7 chi1 -20.7
+
+res ser phi -89.0 psi 5.0 chi1 66.5
+
+res ser phi -99.1 psi -1.2 chi1 -49.4
+
+res gly phi 75.8  psi -35.0
+
+res arg phi -72.9 psi 133.8 chi1 -164.2
+
+res pro phi -66.4 psi 157.7 chi1 26.6
+
+res pro phi -70.2 psi 134.9 chi1 27.3
+
+res pro phi -77.1 psi 142.1 chi1 32.1
+
+res ser phi -103.8 psi -49.1 chi1 -165.6

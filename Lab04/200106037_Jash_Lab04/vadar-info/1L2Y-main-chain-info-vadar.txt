@@ -1,0 +1,53 @@
+********************************************************************************
+*  Package...:                       VADAR (c)
+*  Version...:                 1.5, December 2007
+*  Location..:                 University of Alberta
+*                          Protein Engineering Network of
+*                              Centres of Excellence
+*  Input.....:                     /var/www/html/vadar/public_html/temp/1675241677/1675241677.txt_m12
+*  Date......:                 Wed Feb  1 08:54:47 2023
+********************************************************************************
+
+
+
+
+
+                 ***********************************
+                 *   MAIN CHAIN INFORMATION PANEL  *
+                 ***********************************
+
+
+
+RES. RES. SCND    HBOND    BTURN  RES.  FRAC. RES.   FRAC.  PHI    PSI    OMEGA  PRBLM
+NUM. NAME STRUC   HBOND    BTURN  ASA   ASA   VOL.   VOL.   PHI    PSI    OMEGA  PRBLM
+----------------------------------------------------------------------------------------
+Chain  A  
+1    ASN  CCC C                  145.0  0.88  138.0  1.18     0.0  -44.5 -174.9   
+2    LEU  CCH C 6A,5A            119.3  0.57  160.7  0.98    66.3  -33.7 -179.2   P
+3    TYR  HHH H 6A,7A             97.2  0.40  180.5  0.94   -56.0  -33.5  175.6   
+4    ILE  HHH H 8A,7A            125.9  0.64  153.5  0.95   -63.6  -50.8  175.5   
+5    GLN  HHH H 2A,9A            119.7  0.63  139.8  1.01   -60.9  -42.1  174.7   
+6    TRP  HHH H 2A,9A             14.1  0.05  233.3  1.01   -62.0  -46.1  173.8   
+7    LEU  HHH H 3A,10A           100.3  0.48  141.3  0.87   -60.9  -37.8  173.9   
+8    LYS  HHH H 4A,5A            160.3  0.75  145.5  0.94   -56.7  -28.3  174.6   
+9    ASP  HHH H 5A,6A             57.4  0.37  108.1  0.95   -75.9  -11.0 -172.3   
+10   GLY  CCH C 7A,13A       II'  42.7  0.47   52.5  0.83   106.7   11.2  175.4   
+11   GLY  CCC C 13A,14A      II'   1.2  0.01   60.7  0.96    59.9 -127.8 -179.1   
+12   PRO  CCC C              II' 128.8  0.83  106.6  0.93   -58.0  -20.7 -177.2   
+13   SER  CCC C 10A,11A      II' 105.1  0.80   81.9  0.90   -89.0    5.0 -172.5   
+14   SER  CCC C 11A               33.4  0.25   83.6  0.92   -99.1   -1.2 -178.0   
+15   GLY  CCC C                   80.2  0.88   55.7  0.88    75.8  -35.0  176.7   
+16   ARG  CBC C                  144.5  0.59  182.2  1.04   -72.9  133.8 -179.9   
+17   PRO  CBC C                  105.3  0.68  107.8  0.94   -66.4  157.7 -180.0   
+18   PRO  CBC C                   86.3  0.56  110.4  0.96   -70.2  134.9  175.9   
+19   PRO  CCC C                   40.1  0.26  114.7  1.00   -77.1  142.1  176.0   
+20   SER  CCC C                  168.5  1.28   88.7  0.98  -103.8  -49.1    0.0   A,C
+
+----------------------------------------------------------------------------------------
+Notes on PRBLM column:
+A - indicates possible problem with fractional ASA (fASA > 1.0)
+V - indicates possible problem with fractional volume (fV < 0.8 or fV > 1.2)
+P - indicates possible problem with Phi and Psi angles (Morris, et al, 1992)
+O - indicates possible problem with Omega angle (omega > 170 or omega < -170)
+C - indicates cis peptide bond (-20 < omega < 20)
+
